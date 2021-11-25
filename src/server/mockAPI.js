@@ -1,6 +1,6 @@
 let json = {
     'title': 'test json response',
-    'message': 'The temperature in San Francisco is',
+    'message': 'The current temperature in San Francisco is',
     'time': 'now'
 }
 
